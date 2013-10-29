@@ -1,0 +1,3 @@
+[ ]	Lancer l'installateur de GIT à partir de "K:\Logiciels\GIT".
+	À l'étape "Select Components" de l'installation, sélectionner
+	"Simple context menu (Registry based)" avant de cliquer "Next >".
