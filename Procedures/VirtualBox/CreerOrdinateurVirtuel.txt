@@ -1,0 +1,4 @@
+[ ]	Lancer "Oracle VM VirtualBox"
+[ ]	New
+...
+[ ]	Placer le disque dur virtuel (.vdi) dans C:\_VM\
