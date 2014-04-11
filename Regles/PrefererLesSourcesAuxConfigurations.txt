@@ -1,0 +1,2 @@
+Lorsque possible, placer les informations dans les sources plutôt que dans les
+configurations de projets.
