@@ -1,0 +1,25 @@
+[ ]	Vous assirer que l'utilisateur est membre du groupe des administrateurs;
+[ ]	Vous assurer que l'UAC est désactivé;
+[ ]	Dans une fenetre de commande avec les droit administrateur, entrer la
+	commande "Bcdedit -set TESTSIGNING ON";
+[ ]	Installer le MSI approprié pris de
+	"C:\Program Files (x86)\Windows Kits\8.1\Remote";
+[ ]	Activer les traces en utilisant le fichier ".reg" propre au projet;
+[ ]	Dans Visual Studio 2013
+	- Dans le menu "DRIVER", sélectionner l'item "Test";
+	- Dans le sous menu, sélectionner l'item "Configure Computers...";
+	- Dans le dialogue "Computer Configuration"
+		- Si l'ordinateur existe déjà
+			- La sélectionner;
+			- Cliquer "Delete Computer";
+			- Sélectionner "Delete computer";
+			- Cliquer "Next >";
+			- Cliquer "Finish";
+		- Cliquer "Add New Computer";
+		- Entrer le nom de l'ordinateur de test;
+		- Cliquer "Next >";
+		- Attendre;
+		- Cliquer "Next >";
+		- Cliquer "Finish";
+[ ]	Une fois connecté en tant que "WDKRemoveUser", connecter le lecteur V: au
+	répertoire "C:\_VC" de l'ordinateur de développement

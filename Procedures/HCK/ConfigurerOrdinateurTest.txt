@@ -1,0 +1,8 @@
+[ ]	Lancer le "HCK Studi" sur Li pour vous assurer que le serveur de base de
+	données fonctionne bien
+[ ]	Exévuter "\\Li\HCKInstall\Client\Setup.exe"
+[ ]	Configurer l'adresse IP statique associé à cette ordinateur
+[ ]	Vérifier que le pare-feu Windows est désactivé pour les réseaux privés
+[ ]	Dans une fenêtre de command ayant les privileges administrateur, entrer
+	la commande "bcdedit -set TESTSIGNING ON"
+[ ]	Redemarrer l'ordinateur
