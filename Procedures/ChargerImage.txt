@@ -1,0 +1,11 @@
+
+Projet	: _DocDev
+Fichier	: Procedures/ChargerImage.txt
+
+[ ]	Démarrer l'ordinateur en utilisant "Acronis True Image"
+	- Charger l'image.
+[ ]	Démarrer l'ordinateur normalement;
+[ ]	Si des mise à jours doivent être installer
+	- Les installer;
+	- Nettoyer le disque dure principale;
+	- Refaire l'image en utilisant "Acronis True Image".
