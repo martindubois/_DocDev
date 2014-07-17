@@ -1,8 +1,23 @@
-[ ]	Lancer le "HCK Studi" sur Li pour vous assurer que le serveur de base de
+
+Projet	: _DocDev
+Fichier	: Procedures/HCK/ConfigurerOrdinateurTest.txt
+
+
+[ ]	Sur l'ordinateur de test, dans une fenêtre de command ayant les privileges
+	administrateur, entrer la commande "bcdedit -set TESTSIGNING ON";
+[ ]	Redemarrer l'ordinateur1 de test.
+[ ]	Installer les logiciels a tester sur l'ordinateur de test
+	- Si necessaire, redémarrer l'odrinateur de test
+[ ]	Lancer le "HCK Studio" sur Li pour vous assurer que le serveur de base de
 	données fonctionne bien
-[ ]	Exévuter "\\Li\HCKInstall\Client\Setup.exe"
-[ ]	Configurer l'adresse IP statique associé à cette ordinateur
-[ ]	Vérifier que le pare-feu Windows est désactivé pour les réseaux privés
-[ ]	Dans une fenêtre de command ayant les privileges administrateur, entrer
-	la commande "bcdedit -set TESTSIGNING ON"
-[ ]	Redemarrer l'ordinateur
+	- Si l'ordinateur de test est deja dans la liste des ordinateurs connue, la
+	  retirer.
+[ ]	Exécuter "\\Li\HCKInstall\Client\Setup.exe";
+[ ]	Configurer l'adresse IP statique associé à cette ordinateur;
+[ ]	Vérifier que le pare-feu Windows est désactivé pour les réseaux privés;
+[ ]	Dans "HCK Studio"
+	- Attendre que l'ordinateur apparaisse dans le "Default Pool";
+	- Transferer l'ortinateur dans le pool approprié;
+	- Changer son état pour "Ready";
+	- Attendre que la phase d'initialisation soit terminé et que l'état de
+	  l'ordinateur soit vraiment "Ready".

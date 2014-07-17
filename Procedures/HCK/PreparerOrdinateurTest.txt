@@ -1,0 +1,27 @@
+
+Projet	: _DocDev
+Fichier	: Procedures/HCK/PreparerOrdinateurTest.txt
+
+
+[ ]	Retirer toutes les carte d'extension qui ne sont pas absolument
+	necessaire;
+[ ]	Placer un media (non bootable) dans le lecteur optique;
+
+
+===== KMS/2013/O/00 =========================================================
+
+[ ]	Installer une carte réseau Intel dans la fente d'expansion PCIe x4;
+[ ]	Acceder au BIOS;
+	- Acceder a l'onglet "Advanced"
+		- Acceder a la section "Integrated Peripherals"
+			- Désactiver le "Onboard USB Controller";
+			- Désactiver le "Onboard Audio Controller".
+			- Désactiver le "Onboard LAN Controller"
+	- Acceder a l'onglet "Exit"
+		- Sauvegarder et sortir.
+
+NOTE :	En réactivant le "Onboard USB controller", il ne faut pas oublier de
+	désactiver le "Legacy USB Support".
+
+NOTE :	En réactivant le "Onboard LAN controller", il ne faut pas oublier de
+	désactiver le "Onboard LAN Option ROM".
