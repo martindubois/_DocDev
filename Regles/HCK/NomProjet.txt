@@ -2,11 +2,13 @@
 Projet	: _DocDev
 Fichier	: Regles/HCK/NomProjet.txt
 
+
 Les nom de projet dans "HCK Studio" doivent respecter la nomenclature
 "Projet-Version-Bits-Index" ou
 	Projet	= l'abreviation du nom de projet visant une certification (maximum
-		  de 4 lettres)
+		  de 5 lettres)
 	Version	= l'abreviation du nom de la version de Windows visé
+		  7  = Windows 7
 		  81 = Windows 8.1
 	Bits	= le nombre de bits de la plateforme visé, soit 32 ou 64
 	Index	= une lettre simplement incrémenté à chaque essaie
