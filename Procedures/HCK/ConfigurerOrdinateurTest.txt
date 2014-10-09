@@ -11,15 +11,15 @@ Fichier	: Procedures/HCK/ConfigurerOrdinateurTest.txt
 	est attribuee;
 [ ]	Lancer le "HCK Studio" sur Li pour vous assurer que le serveur de base de
 	données fonctionne bien
-	- Si l'ordinateur de test est deja dans la liste des ordinateurs connue, la
-	  retirer.
-[ ]	Exécuter "\\Li\HCKInstall\Client\Setup.exe";
+	- Si l'ordinateur (ou une de ces autres personnalités) de test est deja dans
+	  la liste des ordinateurs connu, la retirer.
 [ ]	Configurer l'adresse IP statique associé à cette ordinateur;
-[ ]	Vérifier que le pare-feu Windows est désactivé pour les réseaux privés;
+[ ]	Désactiver le pare-feu Windows pour les réseaux privés;
 	Note :	Si l'ordinateur est configurer pour une certification de systeme, il
 		ne faut pas desactiver le pare-feu, il faut alors ajouter une regle
 		entrante et une regle sortante pour permettre les communication sur
 		le sous reseau locale.
+[ ]	Exécuter "\\Li\HCKInstall\Client\Setup.exe";
 [ ]	Dans "HCK Studio"
 	- Attendre que l'ordinateur apparaisse dans le "Default Pool";
 	- Transferer l'ortinateur dans le pool approprié;

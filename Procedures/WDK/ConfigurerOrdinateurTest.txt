@@ -1,10 +1,16 @@
+
+Auteur	:	KMS -	Martin Dubois, ing.
+Projet	:	_DocDev
+Fichier	:	Procedures/WDK/ConfigurerOrdinateurTest.txt
+
+
 [ ]	Vous assirer que l'utilisateur est membre du groupe des administrateurs;
 [ ]	Vous assurer que l'UAC est désactivé;
 [ ]	Dans une fenetre de commande avec les droit administrateur, entrer la
 	commande "Bcdedit -set TESTSIGNING ON";
 [ ]	Installer le MSI approprié pris de
 	"C:\Program Files (x86)\Windows Kits\8.1\Remote";
-[ ]	Activer les traces en utilisant le fichier ".reg" propre au projet;
+[ ]	Activer les traces en utilisant le fichier "Scripts/ActiverTrace.reg";
 [ ]	Dans Visual Studio 2013
 	- Dans le menu "DRIVER", sélectionner l'item "Test";
 	- Dans le sous menu, sélectionner l'item "Configure Computers...";
@@ -21,5 +27,5 @@
 		- Attendre;
 		- Cliquer "Next >";
 		- Cliquer "Finish";
-[ ]	Une fois connecté en tant que "WDKRemoveUser", connecter le lecteur V: au
+[ ]	Une fois connecté en tant que "WDKRemoteUser", connecter le lecteur V: au
 	répertoire "C:\_VC" de l'ordinateur de développement
