@@ -1,0 +1,19 @@
+
+Auteur	:	KMS - Martin Dubois, ing.
+Produit	:	_DocDev
+Fichier	:	Procedures/CreerCleUSBInstallationWindows.txt
+
+
+[ ]	Telecharger "Windows 7 USB/DVD Download Tool" de "codeplex.com";
+[ ]	Installer "Windows 7 USB/DVD Download Tool";
+[ ]	Acceder le menu "Start", le sous-menu "All Programs", le sous-menu
+	"Windows 7 USB/DVD Download Tool" et finalement l'item
+	"Windows 7 USB/DVD Download Tool"
+	- Selectionner le fichier ISO telecharger du site Microsoft;
+	- Cliquer "Next";
+	- Cliquer "USB Device";
+	- Selectionner la cle USB;
+	- Cliquer "Begin copying";
+	- Cliquer "Erase USB Device";
+	- Cliquer "Yes";
+	- Attendre;

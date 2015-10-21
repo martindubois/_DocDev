@@ -1,0 +1,22 @@
+
+Auteur	:	KMS -	Martin Dubois, ing.
+Produit	:	_DocDev
+Fichier	:	Procedures/AcronisTrueImage/CreerCleUSB.txt
+
+
+[ ]	Installer "Acronis True Image 2014" en prennant soin d'entrer la cle
+	d'activation;
+[ ]	Connecter la cle USB a l'ordinateur, et formater celle-ci en utilisant le
+	system de fichier "FAT32";
+[ ]	Dans le menu "Start", acceder le menu "All Programs", le sous menu
+	"Acronis", le sous-menu "True Image", le sous-menu "Tools and utilities" et
+	finallement l'item "Bootable Rescue Media Builder"
+	- Cliquer "Next";
+	- Selectionner "Acronis True Image 2014";
+	- Cliquer "Next";
+	- Cliquer "Next";
+	- Selectionner la cle USB a transformer;
+	- Cliquer "Next";
+	- Attendre.
+[ ]	Dans Windows Explorer, demander l'ejection de la cle USB pour ensuite
+	retirer la cle USB.
