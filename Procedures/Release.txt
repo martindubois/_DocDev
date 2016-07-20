@@ -1,0 +1,30 @@
+
+Auteur	KMS	-	Martin Dubois, ing
+Produit	_DocDev
+Fichier	Procedures/Release.txt
+
+Date	___ ___ ___ ___ - ___ ___ - ___ ___
+
+Execute par _________________________________________________________________
+
+Produit	_________________________________________
+
+
+
+[ ]	Compiler ________________________________________________________________
+
+Version	_____ . _____ . _____ . _____
+
+
+Sous Windows seulement
+[ ]	Verifier que la version est presente et correcte dans les proprietes de
+	chacun des executables exportes
+
+
+[ ] Creer le dossier compresse public _______________________________________
+
+[ ] Modifier le site Web
+
+
+
+Signature ___________________________________________________________________
