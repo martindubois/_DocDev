@@ -1,1 +1,10 @@
-[ ]	K:\Logiciel\VirtualBox\VirtualBox-4.3.10-93012-Win.exe
+
+Auteur    KMS - Martin Dubois, ing.
+Produit   _DocDev
+Fichier   Procedures/VirtualBox/Installer
+
+
+TODO   Normal
+       Utiliser une version plus a jour et completer la procedure
+
+[ ] Executer K:\Logiciel\VirtualBox\VirtualBox-4.3.10-93012-Win.exe

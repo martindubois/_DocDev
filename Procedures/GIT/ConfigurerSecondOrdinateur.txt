@@ -1,3 +1,11 @@
-[ ]	Copier le sous répertoire ".ssh" du répertoire
-	"C:\Users\{NomUtilisateur}" du premier ordinateur vers le même répertoire du
-	second ordinateur.
+
+Auteur    KMS - Martin Dubois, ing.
+Produit   _DocDev
+Fichier   Procedures/GIT/ConfigurerSecondOrdinateur.txt
+
+TODO  Normal
+      Copier la clé privée du dépôt de clé sur le serveur.
+
+[ ] Copier le sous répertoire «.ssh» du répertoire
+    C:\Users\{NomUtilisateur} du premier ordinateur vers le même répertoire
+    du second ordinateur.

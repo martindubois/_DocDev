@@ -1,8 +1,7 @@
 
 Auteur    KMS - Martin Dubois, ing.
 Produit   _DocDev
-Fichier   Procedures/VirtualBox/CreerOrdinateurVirtuel.txt
-
+Fichier   Procedures/AcronisTrueImage/RestaurerImage.txt
 
 TODO   Normal
        Completer

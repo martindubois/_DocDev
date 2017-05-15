@@ -1,16 +1,15 @@
 
-Auteur	KMS - Martin Dubois, ing.
-Projet	_DocDev
-Fichier	Procedures/Ubuntu/OrdinateurDev_Installer.txt
+Auteur	  KMS - Martin Dubois, ing.
+Projet	  _DocDev
+Fichier	  Procedures/Ubuntu/OrdinateurDev_Installer.txt
 
-[ ] Installer ubuntu 16.04
-[ ] Copier la cle prive de l'utilisateur dans /home/.../.ssh
-[ ] Executer comme root
-    - apt install git
-    - apt install git-gui
-    - apt install g++
-    - apt install geany
-[ ] Executer
-    - git config --global user.email "...@kms-quebec.com"
-    - git config --global user.name "... ..."
-
+[ ] Installer Ubuntu 16.04
+[ ] Copier la cle prive de l'utilisateur dans /home/{Utilisateur}/.ssh
+[ ] Outil - Terminal
+        sudo apt install git
+        sudo apt install git-gui
+        sudo apt install g++
+        sudo apt install geany
+[ ] Outil - Terminal
+        git config --global user.email "{Utilisateur}@kms-quebec.com"
+        git config --global user.name "{Prenom} {Nom}"

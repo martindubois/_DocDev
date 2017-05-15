@@ -1,0 +1,7 @@
+
+Auteur    KMS - Martin Dubois, ing.
+Produit   _DocDev
+Fichier   Procedures/AcronisTrueImage/EffacerDisque.txt
+
+TODO  Normal
+      Completer

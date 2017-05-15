@@ -1,2 +1,7 @@
+
+Auteur    KMS - Martin Dubois, ing.
+Produit   _DocDev
+Fichier   Regles/PrefererLesSourcesAuxConfigurations.txt
+
 Lorsque possible, placer les informations dans les sources plutôt que dans les
 configurations de projets.

@@ -1,4 +1,8 @@
-[ ]	Cliquer avec le bouton de droite sur le répertoire "C:\_VC" et
-	sélectionner l'item "Git Bash Here"
-	-	Entrer la commande
-		"git clone {NomUtilisateur}@b:c:/_GIT/{NomDepot}/{NomUtilisateur} {NomDepot}"
+
+Auteur    KMS - Martin Dubois, ing.
+Produit   _DocDev
+Fichier   Procedures/GIT/ClonerDepot.txt
+
+[ ] Cliquer avec le bouton de droite sur le répertoire C:\_VC, sélectionner
+    l'item «Git Bash Here» et exécuter la commande
+	git clone {NomUtilisateur}@b:c:/_GIT/{NomDepot}/{NomUtilisateur} {NomDepot}

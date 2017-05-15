@@ -1,22 +1,27 @@
 
-Auteur	:	KMS -	Martin Dubois, ing.
-Produit	:	_DocDev
-Fichier	:	Procedures/AcronisTrueImage/CreerCleUSB.txt
+Auteur    KMS - Martin Dubois, ing.
+Produit   _DocDev
+Fichier   Procedures/AcronisTrueImage/CreerCleUSB.txt
 
 
-[ ]	Installer "Acronis True Image 2014" en prennant soin d'entrer la cle
-	d'activation;
-[ ]	Connecter la cle USB a l'ordinateur, et formater celle-ci en utilisant le
-	system de fichier "FAT32";
-[ ]	Dans le menu "Start", acceder le menu "All Programs", le sous menu
-	"Acronis", le sous-menu "True Image", le sous-menu "Tools and utilities" et
-	finallement l'item "Bootable Rescue Media Builder"
-	- Cliquer "Next";
-	- Selectionner "Acronis True Image 2014";
-	- Cliquer "Next";
-	- Cliquer "Next";
-	- Selectionner la cle USB a transformer;
-	- Cliquer "Next";
+[ ] Installer «Acronis True Image 2017» en prenant soin d'entrer la cle
+    d'activation;
+[ ] Connecter la clé USB à l'ordinateur, et formater celle-ci en utilisant le
+    système de fichier «FAT32» (Il est possible de faire une partition FAT32
+    et une partition NTFS sur la même clé);
+
+TODO  Normal
+      Valider
+
+[ ] Dans le menu «Start», accéder le menu «All Programs», le sous-menu
+    «Acronis», le sous-menu «True Image», le sous-menu «Tools and utilities» et
+    finalement l'item «Bootable Rescue Media Builder»
+	- Cliquer «Next»;
+	- Selectionner «Acronis True Image 2014»;
+	- Cliquer «Next»;
+	- Cliquer «Next»;
+	- Selectionner la clé USB à transformer;
+	- Cliquer «Next»;
 	- Attendre.
-[ ]	Dans Windows Explorer, demander l'ejection de la cle USB pour ensuite
-	retirer la cle USB.
+
+[ ] Retirer la clé USB de manière sécuritaire.

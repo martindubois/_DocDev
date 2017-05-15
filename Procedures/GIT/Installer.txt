@@ -1,3 +1,12 @@
-[ ]	Lancer l'installateur de GIT à partir de "K:\Logiciels\GIT".
-	À l'étape "Select Components" de l'installation, sélectionner
-	"Simple context menu (Registry based)" avant de cliquer "Next >".
+
+Auteur    KMS - Martin Dubois, ing.
+Produit   _DocDev
+Fichier   Procedures/GIT/Installer.txt
+
+TODO   Normal
+       Valider
+
+[ ] Lancer l'installateur de GIT à partir de K:\Logiciels\GIT.
+    - À l'étape «Select Components» de l'installation, sélectionner
+      «Simple context menu (Registry based)»;
+    - Cliquer «Next >».

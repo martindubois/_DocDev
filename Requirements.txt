@@ -6,31 +6,33 @@ Fichier   Requirements.txt
 
 REQUIREMENT   Component.Exception
               Un composant logiciel traite complètement les exceptions qu'il
-              est suseptible de générer, de manière controlé ou non. Il y a
-              deux exceptions à ce requis: une librairie dynamique
+              est susceptible de générer, de manière contrôlée ou non. Il y a
+              deux exceptions à ce requis : une librairie dynamique
               d'utilisation interne ou une librairie statique peut laisser
               des exceptions sortir de son interface.
 
 REQUIREMENT   Component.Version
               Un composant logiciel permet, d'une manière ou d'une autre de
-              connaître sa version. Un executable ou une librairie dynamique
-              indique sa version dans les ressources. Une librarie dynamique
-              ou une librarie statique fournit un moyen de retrouver la
-              version du composant par programmation. Un executable est en
+              connaître sa version. Un exécutable ou une librairie dynamique
+              indique sa version dans les ressources. Une libraire dynamique
+              ou une libraire statique fournit un moyen de retrouver la
+              version du composant par programmation. Un exécutable est en
               mesure d'afficher la version.
 
 REQUIREMENT   Driver.LoadUnload
-              Un pilote peu etre charge et decharge sans necessiter un
-              redemarrage de l'ordinateur.
+              Un pilote peut être chargé et déchargé sans nécessiter un
+              redémarrage de l'ordinateur.
 
 REQUIREMENT   Installer.Uninstall
-              Si un produit fournis un installateur, il permet la
+              Si un produit fournit un installateur, il permet la
               désinstallation complète.
 
 REQUIREMENT   Product.Build
-              Un produit offrir un fichier de commanes Build.* qui compile
+              Un produit offrir un fichier de commandes Build.* qui compile
               les composants, exécute l'ensemble des tests automatisés
               pouvant être exécuté sur l'ordinateur de compilation et exporte
-              les livrables vers K:\Export\. Le fichier de command Export.*
-              effectue l'exportation pour permettre a un client de le
+              les livrables vers K:\Export\. Le fichier Test.* exécute les
+              tests pour permettre l'exécution des tests sans effectuer la
+              compilation complète et l'exportation. Le fichier de command
+              Export.* effectue l'exportation pour permettre a un client de le
               modifier pour son environnement.

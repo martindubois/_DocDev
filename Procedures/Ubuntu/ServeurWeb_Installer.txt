@@ -1,13 +1,25 @@
-Premièrement, pour installer les services WEB sur un serveur Ubunto :
-	- il faut un disque dur d’au moins 16 Go;
-	- il faut au minimum 4 Go de mémoire vide;
-	- il est recommandé d’utiliser la version serveur d’Ubunto.
 
-[ ]	Installer « rsplib-tools »
-[ ]	Installer « mysql-server »
-[ ]	Installer « apache2 »
-[ ]	Installer « php5 »
-[ ]	Installer « phpmyadmin »
-		Note : L’installation de « phpmyadmin » en plus d’installer l’outil de
-		       gestion installe aussi le client MySQL pour PHP.
-[ ]	Redémarrer l’ordinateur
+Auteur    KMS - Martin Dubois, ing.
+Produit   _DocDev
+Fichier   Procedures/Ubuntu/ServeurWeb_Installer.txt
+
+
+Premièrement, pour installer les services WEB sur un serveur Ubuntu :
+    - il faut un disque dur d’au moins 16 Go;
+    - il faut au minimum 4 Go de mémoire vide;
+    - il est recommandé d’utiliser la version serveur d’Ubunto.
+
+
+TODO   Normal
+       Indiquer les commandes à exécuter pour installer
+
+[ ] Installer «rsplib-tools»;
+[ ] Installer «mysql-server»;
+[ ] Installer «apache2»;
+[ ] Installer «php5»;
+[ ] Installer «phpmyadmin»;
+
+Note   L’installation de «phpmyadmin» en plus d’installer l’outil de
+       gestion installe aussi le client MySQL pour PHP.
+
+[ ] Redémarrer l’ordinateur;

@@ -1,28 +1,27 @@
 
-Projet	: _DocDev
-Fichier	: Procedures/HCK/ConfigurerOrdinateurTest.txt
+Auteur    KMS - Martin Dubois, ing.
+Produit   _DocDev
+Fichier   Procedures/HCK/ConfigurerOrdinateurTest.txt
 
 
-[ ]	S'assurer que l'ordinateur a été préparez tel que décrit par
-	"Procedures/HCK/PreparerOrdinateurTest.txt";
-[ ]	Installer les logiciels a tester sur l'ordinateur de test
-	- Si necessaire, redémarrer l'odrinateur de test.
-[ ]	Configurer l'ordinateur de test pour utiliser l'adresse IPv4 statique qui lui
-	est attribuee;
-[ ]	Lancer le "HCK Studio" sur Li pour vous assurer que le serveur de base de
-	données fonctionne bien
-	- Si l'ordinateur (ou une de ces autres personnalités) de test est deja dans
-	  la liste des ordinateurs connu, la retirer.
-[ ]	Configurer l'adresse IP statique associé à cette ordinateur;
-[ ]	Désactiver le pare-feu Windows pour les réseaux privés;
-	Note :	Si l'ordinateur est configurer pour une certification de systeme, il
-		ne faut pas desactiver le pare-feu, il faut alors ajouter une regle
-		entrante et une regle sortante pour permettre les communication sur
-		le sous reseau locale.
-[ ]	Exécuter "\\Li\HCKInstall\Client\Setup.exe";
-[ ]	Dans "HCK Studio"
-	- Attendre que l'ordinateur apparaisse dans le "Default Pool";
-	- Transferer l'ortinateur dans le pool approprié;
-	- Changer son état pour "Ready";
-	- Attendre que la phase d'initialisation soit terminé et que l'état de
-	  l'ordinateur soit vraiment "Ready".
+[ ] S'assurer que l'ordinateur a été préparé tel que décrit par
+    «Procedures/HCK/PreparerOrdinateurTest.txt»;
+[ ] Installer les logiciels à tester sur l'ordinateur de test
+    - Si nécessaire, redémarrer l'ordinateur de test.
+[ ] Outils - HCK Studio - Sur le serveur WHCK
+    - Si l'ordinateur (ou une de ces autres personnalités) de test est déjà
+      dans la liste des ordinateurs connus, la retirer.
+[ ] Désactiver le pare-feu Windows pour les réseaux privés;
+   
+Note   Si l'ordinateur est configuré pour une certification de système, il
+       ne faut pas désactiver le pare-feu, il faut alors ajouter une règle
+       entrante et une règle sortante pour permettre les communications sur le
+       sous-réseau local.
+
+[ ] Exécuter \\WHCK\HCKInstall\Client\Setup.exe;
+[ ] Outil - HCK Studio - Sur le serveur WHCK
+    - Attendre que l'ordinateur apparaisse dans le «Default Pool»;
+    - Transferer l'ordinateur dans le pool approprié;
+    - Changer son état pour «Ready»;
+    - Attendre que la phase d'initialisation soit terminée et que l'état de
+      l'ordinateur soit vraiment «Ready».

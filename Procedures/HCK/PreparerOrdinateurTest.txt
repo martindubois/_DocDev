@@ -1,30 +1,9 @@
 
-Projet	: _DocDev
-Fichier	: Procedures/HCK/PreparerOrdinateurTest.txt
+Auteur    KMS - Martin Dubois, ing.
+Produit   _DocDev
+Fichier   Procedures/HCK/PreparerOrdinateurTest.txt
 
 
-[ ]	Retirer toutes les carte d'extension qui ne sont pas absolument
-	necessaire;
-[ ]	Placer un media (non bootable) dans le lecteur optique;
-[ ]	Sur l'ordinateur de test, dans une fenêtre de command ayant les privileges
-	administrateur, entrer la commande "bcdedit -set TESTSIGNING ON";
-[ ]	Redemarrer l'ordinateur de test.
-
-
-===== KMS/2013/O/00 =========================================================
-
-[ ]	Installer une carte réseau Intel dans la fente d'expansion PCIe x4;
-[ ]	Acceder au BIOS;
-	- Acceder a l'onglet "Advanced"
-		- Acceder a la section "Integrated Peripherals"
-			- Désactiver le "Onboard USB Controller";
-			- Désactiver le "Onboard Audio Controller";
-			- Désactiver le "Onboard LAN Controller".
-	- Acceder a l'onglet "Exit"
-		- Sélectionner "Save & Exit Setup".
-	NOTE : 	Il est parfois necessaire d'attendre plus tard avant d'effectuer
-		cette étape car les ports USB peuvent être utilisé.
-	NOTE :	En réactivant le "Onboard USB controller", il ne faut pas oublier de
-		désactiver le "Legacy USB Support".
-	NOTE :	En réactivant le "Onboard LAN controller", il ne faut pas oublier de
-		désactiver le "Onboard LAN Option ROM".
+[ ] Retirer toutes les cartes d'expansion qui ne sont pas absolument
+    nécessaires;
+[ ] Placer un média (non bootable) dans le lecteur optique.
