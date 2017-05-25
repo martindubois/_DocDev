@@ -1,3 +1,0 @@
-[ ]	Copier le sous répertoire ".ssh" du répertoire
-	"C:\Users\{NomUtilisateur}" du premier ordinateur vers le même répertoire du
-	second ordinateur.

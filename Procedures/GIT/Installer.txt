@@ -1,3 +1,18 @@
-[ ]	Lancer l'installateur de GIT à partir de "K:\Logiciels\GIT".
-	À l'étape "Select Components" de l'installation, sélectionner
-	"Simple context menu (Registry based)" avant de cliquer "Next >".
+
+Auteur    KMS - Martin Dubois, ing.
+Produit   _DocDev
+Fichier   Procedures/GIT/Installer.txt
+
+
+[ ] Executable K:/Logiciels/GIT/Git-1.8.3-preview20130601.exe - En tant
+    qu'administrateur
+    - Cliquer "Next >";
+    - Cliquer "Next >";
+    - Cliquer "Next >";
+    - Selectionner "Windows Explorer integration -> Simple context menu
+      (Registry based)";
+    - Cliquer "Next >";
+    - Cliquer "Next >";
+    - Cliquer "Next >";
+    - Cliquer "Next >";
+    - Cliquer "Finish".
