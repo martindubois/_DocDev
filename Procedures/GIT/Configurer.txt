@@ -1,0 +1,11 @@
+
+Auteur    KMS - Martin Dubois, ing.
+Produit   _DocDev
+Fichier   Procedures/GIT/Configurer.txt
+
+
+[ ] Copier le fichier id_rsa de K:/Utilisateur/{Utilisateur}/.ssh vers
+    C:/Users/{Utilisateur}/.ssh
+[ ] Outil - Git Bash
+        git config --global user.name "Prenom Nom"
+        git config --global user.email utilisateur@kms-quebec.com
