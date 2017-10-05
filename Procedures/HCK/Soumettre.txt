@@ -1,0 +1,92 @@
+
+Auteur    KMS - Martin Dubois, ing.
+Produit   _DocDev
+Fichier   Procedures/HCK/Soumettre.txt
+
+
+===== Partie à exécuter sur le serveur WHCK =================================
+
+[ ] Copier le répertoire du pilote vers le bureau;
+[ ] Outil - HCK Studio
+    - Naviguer vers l'onglet «Package»;
+    - Cliquer «Add Driver Folder».
+[ ] Dialogue «Browse For Folder»
+    - Selectionner le répertoire du pilote sur le bureau;
+    - Cliquer «OK».
+[ ] Dialogue «Driver Properties»
+    - Naviguer vers l'onglet «Products»;
+    - Selectionner toutes les plateformes;
+    - Naviguer vers l'onglet «Locales»;
+    - Selectionner «English»;
+    - Cliquer «OK».
+[ ] Dialogue - Windows Hardware Certification Kit - Retour
+    - Cliquer «Create Package».
+[ ] Dialogue «Signing Options»
+    - Selectionner «Do not sign»;
+    - Cliquer «Ok».
+[ ] Dialog «Save As»
+    - Naviguer vers le répertoire du projet à l'intérieur du répertoire du
+      client sur le serveur;
+    - Utiliser le nom du projet comme nom de fichier;
+    - Cliquer «Save».
+
+La création du paquetage peut prendre quelques minutes.
+
+[ ] Dialogue - Successfully packaged the project.
+    - Cliquer «Ok»
+[ ] Dialogue - Windows Hardware Certification Kit - Retour
+    - Fermer la fenêtre.
+
+===== Partie à exécuter sur un ordinateur pouvant signer le paquetage =======
+
+[ ] Connecter la cle de signature a l'ordinateur;
+[ ] Outil - HCK Studio;
+[ ] Dialogue - Failed to connect to database.
+    - Cliquer «OK».
+[ ] Dialogue - Choose Connection
+    - Selectionner «Package»;
+    - Cliquer «Browse».
+[ ] Dialogue - Select package file :
+    - Selectionner le fichier sauvegarde précédemment à partir du serveur;
+    - Cliquer «Open».
+[ ] Dialogue - Choose Connection - Retour
+    - Cliquer «OK».
+[ ] Dialogue “Windows Hardware Certification Kit”
+    - Naviguer vers l'onglet «Package»;
+    - Cliquer «Create Package».
+[ ] Dialogue «Signing Options»
+    - Selectionner «Use the certificate store»;
+    - Cliquer «Ok».
+[ ] Dialogue «Windows Security
+    - Selectionner le certificat “KMS (Martin Dubois)”;
+    - Cliquer “OK”.
+[ ] Dialogue “Save As”
+    - Entrer le nom de fichier en ajoutant» _signed» a la fin;
+    - Cliquer «Save».
+
+La création du paquetage peut prendre quelques minutes.
+
+[ ] Dialogue - Token Logon
+    - Entrer le mot de passe associe a la cle de signature;
+    - Cliquer «OK».
+    - Cliquer «OK»
+[ ] Dialogue - Successfully packaged the project.
+    - Cliquer «Ok».
+[ ] Dialogue - Windows Hardware Certification Kit - Retour
+    - Fermer la fenêtre.
+
+[ ] Site WEB - https://developer.microsoft.com/en-us/dashboard/hardware
+    - Cliquer «Submit new hardware»;
+    - Entrer le nom du pilote;
+    - Cliquer «browse your files»;
+[ ] Dialogue - Choose File to Upload
+    - Selectionner le fichier signe;
+    - Cliquer «Open».
+[ ] Site WEB - Retour
+    - Selectionner les systèmes d'exploitation antérieurs pour lesquelles
+      vous voulez une signature;
+    - Selectionner le «product type»;
+    - Selectionner le «type of device»;
+    - Entrer la «Firmware version»;
+    - Entrer la «Annoucement data»;
+    - Cliquer «Submit».

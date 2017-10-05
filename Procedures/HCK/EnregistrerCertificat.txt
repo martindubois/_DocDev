@@ -1,0 +1,20 @@
+
+Auteur    KMS - Martin Dubois, ing.
+Produit   _DocDev
+Fichier   Procedures/HCK/EnregistrerCertificat.txt
+
+
+[ ] Site WEB - https://developer.microsoft.com/en-us/dashboard/Account/ManageCertificates
+    - Cliquer «Add a new certificate»;
+    - Cliquer «Next»;
+    - Cliquer «Download the signable file now»;
+[ ] Sauvegarder le fichier téléchargé;
+[ ] Utiliser l'outil signtool pour signer le fichier télécharge;
+[ ] Site WEB - Retour
+    - Cliquer «browse your files»;
+[ ] Dialogue - Choose File to Upload
+    - Selectionner le fichier signe;
+    - Cliquer «Open».
+[ ] Site WEB - Retour
+    - Cliquer «Finish».
+

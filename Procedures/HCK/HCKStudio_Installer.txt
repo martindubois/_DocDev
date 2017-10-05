@@ -1,0 +1,15 @@
+
+Auteur    KMS - Martin Dubois, ing.
+Produit   _DocDev
+Fichier   Procedure/HCK/HCKStudio_Installer.txt
+
+
+[ ] Executer \\WHCK\HCKInstall\Studio\Setup.exe
+    - Confirmer l'exécution en tant qu'administrateur;
+    - Cliquer «Next >»;
+    - Cliquer «Install >»;
+
+L'installation peut prendre quelques minutes.
+
+    - Cliquer «Finish»;
+
