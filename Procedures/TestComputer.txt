@@ -1,0 +1,38 @@
+
+Auteur   KMS - Martin Dubois, ing.
+Produit  _DocDev
+Fichier  Procedures/TestComputer.txt
+
+Developpeur        __________________________________________________
+
+Date et heure      2018 - _____ - _____                 _____ : _____
+
+Clients            __________________________________________________
+
+Projets            __________________________________________________
+
+Ordi. physique     KMS/20 ______ /O/ _____  ou  _____________________
+
+===== Récupération de l'image =======================================
+
+Ordi. logique      __________________________________________________
+
+Disque             KMS/20 ______ /D/ _____
+
+Image              / ________________________________________________
+
+===== Mise en disponibilité =========================================
+
+Date et heure      2018 - _____ - _____                 _____ : _____
+
+[ ] Deplacer les fichiers de "Documents" vers le serveur de fichier
+[ ] Nettoyer le disque "C:"
+[ ] Prendre une image
+
+Disque             KMS/20 ________ /D/ _____
+
+Répertoire         / ________________________________________________
+
+Heure et durée     _____ : _____        _____ heures et _____ minutes
+
+Signature          __________________________________________________

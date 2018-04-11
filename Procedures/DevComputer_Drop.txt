@@ -1,0 +1,40 @@
+
+Auteur   KMS - Martin Dubois, ing.
+Produit  _DocDev
+Fichier  Procedures/DevComputer_Drop.txt
+
+Developpeur        __________________________________________________
+
+Date et heure      2018 - _____ - _____                 _____ : _____
+
+Ordi. logique      __________________________________________________
+
+Ordi. physique     KMS/20 ________ /O/ _____  ou  ___________________
+
+Clients            __________________________________________________
+
+Projets            __________________________________________________
+
+[ ] Vérifier que le répertoire "C:/_VC" ne contient pas de code qui
+    n'est pas commis
+[ ] Pousser tous les depot GIT vers le serveur en les notant ici
+
+                   __________________________________________________
+
+                   __________________________________________________
+
+                   __________________________________________________
+
+                   __________________________________________________
+
+[ ] Deplacer les fichiers de "Documents" vers le serveur de fichier
+[ ] Nettoyer le disque "C:"
+[ ] Prendre une image
+
+Disque             KMS/20 ________ /D/ _____
+
+Répertoire         / ________________________________________________
+
+Heure et duree     _____ : _____        _____ heures et _____ minutes
+
+Signature          __________________________________________________
