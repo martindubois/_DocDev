@@ -21,12 +21,14 @@ Disque             KMS/20 ______ /D/ _____
 
 Image              / ________________________________________________
 
+
+
 ===== Mise en disponibilité =========================================
 
 Date et heure      2018 - _____ - _____                 _____ : _____
 
-[ ] Deplacer les fichiers de "Documents" vers le serveur de fichier
-[ ] Nettoyer le disque "C:"
+[ ] Deplacer les fichiers de importants vers le serveur de fichier
+[ ] Nettoyer le disque
 [ ] Prendre une image
 
 Disque             KMS/20 ________ /D/ _____

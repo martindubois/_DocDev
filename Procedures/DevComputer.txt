@@ -25,8 +25,8 @@ Image              / ________________________________________________
 
 Data et heure      2018 - _____ - _____                 _____ : _____
 
-[ ] Vérifier que le répertoire "C:/_VC" ne contient pas de code qui
-    n'est pas commis
+[ ] Vérifier que l'ordinateur ne contient pas de code qui n'est pas
+    commis
 [ ] Pousser tous les depot GIT vers le serveur en les notant ici
 
                    __________________________________________________
@@ -35,8 +35,8 @@ Data et heure      2018 - _____ - _____                 _____ : _____
 
                    __________________________________________________
 
-[ ] Deplacer les fichiers de "Documents" vers le serveur de fichier
-[ ] Nettoyer le disque "C:"
+[ ] Deplacer les fichiers de importants vers le serveur de fichier
+[ ] Nettoyer le disque
 [ ] Prendre une image
 
 Disque             KMS/20 ________ /D/ _____
