@@ -1,7 +1,21 @@
 
-Auteur    KMS - Martin Dubois, ing.
-Produit   _DocDev
-Fichier   Procedures/AcroniTrueImage/PrendreImage.txt
+Auteur   KMS - Martin Dubois, ing.
+Produit  _DocDev
+Fichier  Procedures/AcroniTrueImage/PrendreImage.txt
+
+Prénom et nom      __________________________________________________________
+
+Date et heure      20 ______ - ______ - ______                ______ : ______
+
+Ordinateur         __________________________________________________________
+
+Disque             KMS/20 ______ /D/ ______
+
+Repertoire         / ________________________________________________________
 
 TODO  Normal
       Completer
+
+Heure et duree     ______ : ______            ______ heures et ______ minutes
+
+Signature          __________________________________________________________

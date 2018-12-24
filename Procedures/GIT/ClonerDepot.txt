@@ -1,7 +1,7 @@
 
-Auteur    KMS - Martin Dubois, ing.
-Produit   _DocDev
-Fichier   Procedures/GIT/ClonerDepot.txt
+Auteur   KMS - Martin Dubois, ing.
+Produit  _DocDev
+Fichier  Procedures/GIT/ClonerDepot.txt
 
 [ ] Cliquer avec le bouton de droite sur le répertoire C:\_VC, sélectionner
     l'item «Git Bash Here» et exécuter la commande

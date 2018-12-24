@@ -1,38 +1,42 @@
 
-Auteur    KMS - Martin Dubois, ing.
-Produit   _DocDev
-Fichier   Requirements.txt
+Auteur   KMS - Martin Dubois, ing.
+Produit  _DocDev
+Fichier  Requirements.txt
 
 
 REQUIREMENT   Component.Exception
-              Un composant logiciel traite complètement les exceptions qu'il
-              est susceptible de générer, de manière contrôlée ou non. Il y a
-              deux exceptions à ce requis : une librairie dynamique
+              Un composant logiciel traite complÃ©tement les exceptions qu'il
+              est susceptible de gÃ©nÃ©rer, de maniÃ©re contrÃ´lÃ©e ou non. Il y a
+              deux exceptions Ã  ce requis: une librairie dynamique
               d'utilisation interne ou une librairie statique peut laisser
               des exceptions sortir de son interface.
 
 REQUIREMENT   Component.Version
-              Un composant logiciel permet, d'une manière ou d'une autre de
-              connaître sa version. Un exécutable ou une librairie dynamique
+              Un composant logiciel permet, d'une maniÃ re ou d'une autre de
+              connaÃ®tre sa version. Un exÃ©cutable ou une librairie dynamique
               indique sa version dans les ressources. Une libraire dynamique
               ou une libraire statique fournit un moyen de retrouver la
-              version du composant par programmation. Un exécutable est en
+              version du composant par programmation. Un exÃ©cutable est en
               mesure d'afficher la version.
 
 REQUIREMENT   Driver.LoadUnload
-              Un pilote peut être chargé et déchargé sans nécessiter un
-              redémarrage de l'ordinateur.
+              Un pilote peut Ãªtre chargÃ© et dÃ©chargÃ© sans nÃ©cessiter un
+              redÃ©marrage de l'ordinateur.
 
 REQUIREMENT   Installer.Uninstall
               Si un produit fournit un installateur, il permet la
-              désinstallation complète.
+              dÃ©sinstallation complÃ¨te.
 
 REQUIREMENT   Product.Build
-              Un produit offrir un fichier de commandes Build.* qui compile
-              les composants, exécute l'ensemble des tests automatisés
-              pouvant être exécuté sur l'ordinateur de compilation et exporte
-              les livrables vers K:\Export\. Le fichier Test.* exécute les
-              tests pour permettre l'exécution des tests sans effectuer la
-              compilation complète et l'exportation. Le fichier de command
+              Un produit offre un fichier de commandes Build.* qui compile
+              les composants, exÃ©cute l'ensemble des tests automatisÃ©s
+              pouvant Ãªtre exÃ©cutÃ© sur l'ordinateur de compilation et exporte
+              les livrables vers K:\Export\. Le fichier Test.* exÃ©cute les
+              tests pour permettre l'exÃ©cution des tests sans effectuer la
+              compilation complÃ¨te et l'exportation. Le fichier de command
               Export.* effectue l'exportation pour permettre a un client de le
               modifier pour son environnement.
+
+REQUIREMENT   Product.Import
+              Un produit, s'il dÃ©pend sur d'autre produit, offre un fichier
+              de commande Import.* pour importer ces dÃ©pendances.

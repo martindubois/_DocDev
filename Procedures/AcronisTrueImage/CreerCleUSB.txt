@@ -1,8 +1,11 @@
 
-Auteur    KMS - Martin Dubois, ing.
-Produit   _DocDev
-Fichier   Procedures/AcronisTrueImage/CreerCleUSB.txt
+Auteur   KMS - Martin Dubois, ing.
+Produit  _DocDev
+Fichier  Procedures/AcronisTrueImage/CreerCleUSB.txt
 
+Prénom et nom      __________________________________________________________
+
+Date et heure      20 ______ - ______ - ______                ______ : ______
 
 [ ] Installer «Acronis True Image 2017» en prenant soin d'entrer la cle
     d'activation;
@@ -14,8 +17,8 @@ TODO  Normal
       Valider
 
 [ ] Dans le menu «Start», accéder le menu «All Programs», le sous-menu
-    «Acronis», le sous-menu «True Image», le sous-menu «Tools and utilities» et
-    finalement l'item «Bootable Rescue Media Builder»
+    «Acronis», le sous-menu «True Image», le sous-menu «Tools and utilities»
+    et finalement l'item «Bootable Rescue Media Builder»
 	- Cliquer «Next»;
 	- Selectionner «Acronis True Image 2014»;
 	- Cliquer «Next»;
@@ -25,3 +28,7 @@ TODO  Normal
 	- Attendre.
 
 [ ] Retirer la clé USB de manière sécuritaire.
+
+Heure et duree     ______ : ______            ______ heures et ______ minutes
+
+Signature          __________________________________________________________

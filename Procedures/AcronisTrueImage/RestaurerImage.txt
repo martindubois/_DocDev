@@ -3,5 +3,19 @@ Auteur    KMS - Martin Dubois, ing.
 Produit   _DocDev
 Fichier   Procedures/AcronisTrueImage/RestaurerImage.txt
 
-TODO   Normal
-       Completer
+Prénom et nom      __________________________________________________________
+
+Date et heure      20 ______ - ______ - ______                ______ : ______
+
+Ordinateur         __________________________________________________________
+
+Disque             KMS/20 ______ /D/ ______
+
+Image              / ________________________________________________________
+
+TODO  Normal
+      Completer
+
+Heure et duree     ______ : ______            ______ heures et ______ minutes
+
+Signature          __________________________________________________________
