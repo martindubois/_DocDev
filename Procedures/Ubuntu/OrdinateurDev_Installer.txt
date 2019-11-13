@@ -9,15 +9,10 @@ Date et heure      20 ______ - ______ - ______                ______ : ______
 
 Ordinateur         __________________________________________________________
 
-[ ] Installer Ubuntu�18.04.1
+[ ] Installer Ubuntu 18.04.1
 [ ] Copier la cle prive de l'utilisateur dans /home/{Utilisateur}/.ssh
+[ ] Copier le script UbuntuDev.sh sur l'ordinateur et l'executer
 [ ] Outil - Terminal
-        sudo apt-get install git
-        sudo apt-get install git-gui
-        sudo apt-get install g++
-        sudo apt-get install geany
-        sudo apt-get install make
-        sudo apt-get install xutils-dev
         git config --global user.email "{Utilisateur}@kms-quebec.com"
         git config --global user.name "{Prenom} {Nom}"
 
