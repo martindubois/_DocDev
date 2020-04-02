@@ -9,7 +9,7 @@ Date et heure      20 ______ - ______ - ______                ______ : ______
 
 Ordinateur         __________________________________________________________
 
-[ ] Installer Ubuntu 18.04.2
+[ ] Installer Ubuntu 18.04.3
 [ ] Copier la cle prive de l'utilisateur dans /home/{Utilisateur}/.ssh
 [ ] Copier le script UbuntuDev.sh sur l'ordinateur et l'executer
 [ ] Outil - Terminal

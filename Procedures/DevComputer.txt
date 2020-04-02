@@ -3,7 +3,7 @@ Auteur   KMS - Martin Dubois, ing.
 Produit  _DocDev
 Fichier  Procedures/DevComputer.txt
 
-Prénom et nom      __________________________________________________________
+Prenom et nom      __________________________________________________________
 
 Date et heure      20 ______ - ______ - ______                ______ : ______
 
@@ -11,37 +11,33 @@ Clients            __________________________________________________________
 
 Projets            __________________________________________________________
 
-Ordi. physique     KMS/20 ________ /O/ _____  ou  ___________________________
+Ordi. physique     KMS/20 ________ /O/ ______          ______________________
 
-Tiroir             __________________________________________________________
+===== Recuperation de l'image ===============================================
 
 Ordi. logique      __________________________________________________________
 
-Disque             KMS/20 ________ /D/ _____
+Disque             KMS/20 ________ /D/ ______
 
 Image              / ________________________________________________________
 
-===== Mise en disponibilité =================================================
+Tiroir             __________________________________________________________
+
+===== Mise en disponibilite =================================================
 
 Data et heure      20 ______ - ______ - ______                ______ : ______
 
-[ ] Vérifier que l'ordinateur ne contient pas de code qui n'est pas commis
-[ ] Pousser tous les depot GIT vers le serveur en les notant ici
-
-                   __________________________________________________________
-
-                   __________________________________________________________
-
-                   __________________________________________________________
-
-[ ] Deplacer les fichiers de importants vers le serveur de fichier
+[ ] Deplacer les fichiers importants vers le serveur de fichier
+[ ] VÃ©rifier que l'ordinateur ne contient pas de code qui n'est pas commis,
+    pousser tous les depot GIT vers le serveur en les notant ici et mettre la
+    liste de donnÃ©es importante a jour.
 [ ] Nettoyer le disque
 [ ] Prendre une image
 
 Disque             KMS/20 ______ /D/ ______
 
-Répertoire         / ________________________________________________________
+Repertoire         / ________________________________________________________
 
-Heure et durée     ______ : ______            ______ heures et ______ minutes
+Heure et duree     ______ : ______            ______ heures et ______ minutes
 
 Signature          __________________________________________________________
